@@ -26,7 +26,7 @@ Tools & Testing
 
 ## 📈 GitHub Stats
 
-While most of my professional work resides in private company repositories, this GitHub account includes personal side projects and technical explorations, though many of those are private as well. What you see here represents only a very very small part of my overall development work.
+While most of my professional work resides in private company repositories, this GitHub account includes personal side projects and technical explorations, though many of those are private as well. So, what you see here doesn’t fully reflect my overall development work, but I thought this colorful graph looked cool, so I decided to share it here! :)
 <!--
 [![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpsilvaa97)](https://github.com/dpsilvaa97/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=dpsilvaa97&count_private=true&theme=radical&show_icons=true" />
