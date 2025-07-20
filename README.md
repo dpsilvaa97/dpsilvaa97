@@ -1,5 +1,8 @@
-# Hi there! I'm Daniel Silva
+# Hi there! I'm Daniel Silva  
 **Software Engineer | Full Stack Developer | Cloud & AI Enthusiast**
+
+🌐 Check out my portfolio:  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.dpsilvacode.com/)
 
 I'm a Software Engineer with 5+ years of experience in software design, development, and testing. I hold a Master’s degree in Computer Science and Engineering and have worked across diverse domains, from insurance and education to AI-driven platforms.
 
